@@ -1,6 +1,5 @@
 # cra-template-junior
 
-<hr/>
 
 This is a React template build for Junior Dev from a Junior.
 
@@ -8,7 +7,6 @@ Based on template: React Official template.
 
 ## Install & Start
 
-<hr/>
 
 Create React App with the template
 
